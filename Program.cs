@@ -1,5 +1,5 @@
 ﻿using ConsoleApp13;
-
+//Екатерина Николаевна, у меня была проблема с отправками файлами на githab и я скинул через ноут Помелова.
 Student student = new Student("Арсений Квятковский", Education.Bachelor, 291);
 Console.WriteLine(student.ToShortString());
 
